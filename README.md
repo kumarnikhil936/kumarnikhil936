@@ -38,7 +38,7 @@ Nikhil</a></h1>
 </p>
 <br />
 <br />
-<br />
+
 
 ## 🛠️ Skill set
 <br />
