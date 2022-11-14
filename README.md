@@ -19,7 +19,7 @@ Nikhil</a></h1>
 </a>
 
 ## :sassy_man:  About me
-- :computer: I am `Senior Data Scientist` with 7+ years of work experience, currently working with <a href="https://www.teamviewer.com/en/" target="blank">TeamViewer AG, Berlin.</a> 
+- :computer: I am a data professional with 7+ years of work experience, currently working as a `Senior Data Scientist` with <a href="https://www.teamviewer.com/en/" target="blank">TeamViewer AG, Berlin.</a> 
 - 🔭 I enjoy developing end-to-end data science solutions to provide valuable insights and support data-driven decision-making.
 - :student: I have done an M. Sc. in `Computer Engineering` from <a href="https://www.uni-paderborn.de/en/university/" target="blank">University of Paderborn,</a> where I specialized in Data Science and Intelligent Systems.
 - 📄 Know about my experiences and skillset from my [CV](https://www.cakeresume.com/nikhil-kumar-jha).
