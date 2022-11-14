@@ -15,10 +15,10 @@
 
 
 ## :sassy_man:  About me
-- :computer: I am a `Senior Data Scientist` at TeamViewer and presently located out of Berlin 
-- :student: I’m did my masters program in `Computer Engineering` where I specialized in Data Science and Intelligent Systems
+- :computer: I am a `Senior Data Scientist` at TeamViewer and presently located in Berlin 
+- :student: I did my masters program in `Computer Engineering` where I specialized in Data Science and Intelligent Systems
 - :thinking: Here is my [CV](https://www.cakeresume.com/nikhil-kumar-jha).
-- :nerd_face: Always open to learning and trying new things.
+- :nerd_face: Always open to learning and trying new things
 <br>
 
 ## 🔥 Streak Stats
