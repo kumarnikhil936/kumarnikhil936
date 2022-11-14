@@ -33,8 +33,8 @@ Nikhil</a></h1>
 	<a href="mailto:kumar.nikhil936@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/kumarnikhil936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nikhil-kumar-jha/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://mobile.twitter.com/nikhilkumar_jha"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://stackoverflow.com/users/9074699/nikhil-k"><img src="https://img.shields.io/badge/stackoverflow-4EA5423.svg?style=plastic&logo=stackoverflow&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://mobile.twitter.com/nikhilkumar_jha"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="LinkedIn"/></a>
 </p>
 <br />
 <br />
