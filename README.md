@@ -1,8 +1,9 @@
-<h1 align="center">Hi , I'm Nikhil Kumar Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/nikhil-kumar-jha/" target="blank">
+Nikhil</a></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Data+Scientist+at+TeamViewer;Always%20open%20to%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
 
 <br>
 
@@ -13,12 +14,16 @@
 	</a>
 </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ## :sassy_man:  About me
-- :computer: I am a `Senior Data Scientist` at TeamViewer and presently located in Berlin 
-- :student: I did my masters program in `Computer Engineering` where I specialized in Data Science and Intelligent Systems
-- :thinking: Here is my [CV](https://www.cakeresume.com/nikhil-kumar-jha).
-- :nerd_face: Always open to learning and trying new things
+- :computer: I am `Senior Data Scientist` with 7+ years of work experience, currently working with <a href="https://www.teamviewer.com/en/" target="blank">TeamViewer AG, Berlin.</a> 
+- 🔭 I enjoy developing end-to-end data science solutions to provide valuable insights and support data-driven decision-making.
+- :student: I have done an M. Sc. in `Computer Engineering` from <a href="https://www.uni-paderborn.de/en/university/" target="blank">University of Paderborn,</a> where I specialized in Data Science and Intelligent Systems.
+- 📄 Know about my experiences and skillset from my [CV](https://www.cakeresume.com/nikhil-kumar-jha).
+- :nerd_face: Always open to learning and trying new things. Happy to provide freelance support and be involved in open-source projects.
 <br>
 
 ## 🔥 Streak Stats
@@ -27,7 +32,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 🤝 
 <p align="center">
 	<a href="mailto:kumar.nikhil936@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/kumarnikhil936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -35,14 +40,59 @@
 </p>
 
 
-## 🛠️ My Skills
+## 🛠️ Skill set
 
-### 👉 Programming languages
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/dask/dask-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
+<br />
+<code><img width="15%" src=""></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+
+
+</div>
 
 <p align="center"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=plastic&logo=sql&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+    <img alt="PySpark" src="https://img.shields.io/badge/PySpark%20-%2314354C.svg?style=plastic&logo=PySpark&logoColor=white">
   </a>
   &emsp; 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -50,14 +100,13 @@
   </a>
 </p>
 
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+<br/>
+
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnikhil936&layout=compact&theme=algolia" alt="kumarnikhil936" /></a> </p>
+
 <br/>
 
 ## 📊 Github Stats
@@ -71,17 +120,7 @@
   <br/>
   </p>
 
-----
-
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/kumarnikhil936"><img alt="kumarnikhil936's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kumarnikhil936&custom_title=kumarnikhil936's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnikhil936&layout=compact&theme=algolia" alt="kumarnikhil936" /></a> </p>
-
