@@ -28,9 +28,20 @@ Nikhil</a></h1>
 <br />
 <br />
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 🤝 
+<p align="center">
+	<a href="mailto:kumar.nikhil936@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/kumarnikhil936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nikhil-kumar-jha/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://mobile.twitter.com/nikhilkumar_jha"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://stackoverflow.com/users/9074699/nikhil-k"><img src="https://img.shields.io/badge/stackoverflow-4EA5423.svg?style=plastic&logo=stackoverflow&logoColor=white" alt="LinkedIn"/></a>
+</p>
+<br />
+<br />
+<br />
 
 ## 🛠️ Skill set
-
+<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
@@ -76,35 +87,17 @@ Nikhil</a></h1>
 <br />
 <br />
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 🤝 
-<p align="center">
-	<a href="mailto:kumar.nikhil936@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/kumarnikhil936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nikhil-kumar-jha/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://mobile.twitter.com/nikhilkumar_jha"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://stackoverflow.com/users/9074699/nikhil-k"><img src="https://img.shields.io/badge/stackoverflow-4EA5423.svg?style=plastic&logo=stackoverflow&logoColor=white" alt="LinkedIn"/></a>
-	
-	
-</p>
-<br />
-<br />
-<br />
-
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnikhil936&theme=algolia" alt="kumarnikhil936" /></p>
 <br />
 <br />
 <br />
 
-
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnikhil936&layout=compact&theme=algolia" alt="kumarnikhil936" /></a> </p>
 <br />
 <br />
 <br />
-
 
 ## 📊 Github Stats
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -115,7 +108,6 @@ Nikhil</a></h1>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarnikhil936&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kumarnikhil936" height="192px"/>
   </p>
-<br />
 <br />
 <br />
 
